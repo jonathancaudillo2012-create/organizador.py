@@ -82,3 +82,6 @@ def principal():
 # Punto de entrada del script
 if __name__ == "__main__":
     principal()
+    @echo off
+python organizador.py
+pause
